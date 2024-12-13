@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\bunagir\bunagir\bin\Debug\bunagir.exe.config
+C:\Users\Hp\source\repos\bunagir\bunagir\bin\Debug\bunagir.exe
+C:\Users\Hp\source\repos\bunagir\bunagir\bin\Debug\bunagir.pdb
+C:\Users\Hp\source\repos\bunagir\bunagir\obj\Debug\bunagir.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\bunagir\bunagir\obj\Debug\bunagir.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\bunagir\bunagir\obj\Debug\bunagir.exe
+C:\Users\Hp\source\repos\bunagir\bunagir\obj\Debug\bunagir.pdb
